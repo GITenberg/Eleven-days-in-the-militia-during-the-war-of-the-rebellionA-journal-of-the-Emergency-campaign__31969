@@ -1,0 +1,32 @@
+_repo: Eleven-days-in-the-militia-during-the-war-of-the-rebellionA-journal-of-the-Emergency-campaign__31969
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Louis
+    alias: Militiaman
+    birthdate: 1842
+    deathdate: 1924
+    gutenberg_agent_id: '35579'
+    url: http://www.gutenberg.org/2009/agents/35579
+description: ''
+gutenberg_issued: '2010-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31969'
+  lccn: 02018860
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'Reading (Pa.) -- History -- Civil War, 1861-1865'
+title: 'Eleven days in the militia during the war of the rebellion
+
+  A journal of the ''Emergency'' campaign of 1862'
+url: http://www.gutenberg.org/ebooks/31969
