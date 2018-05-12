@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35579'
     url: http://www.gutenberg.org/2009/agents/35579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31969#Eleven-days-in-the-militia-during-the-war-of-the-rebellionA-journal-of-the-Emergency-campaign_
 gutenberg_issued: '2010-04-12'
 gutenberg_type: Text
 identifiers:
